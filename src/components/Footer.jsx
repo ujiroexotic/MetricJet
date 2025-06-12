@@ -5,6 +5,7 @@ import {
     FaGithubSquare,
     FaInstagramSquare,
     FaTwitterSquare,
+    FaLinkedin
 } from 'react-icons/fa'
 
 const Footer = () => {
@@ -35,6 +36,9 @@ const Footer = () => {
 </a>
 <a href="https://dribbble.com/ujiroexotic" target="_blank" rel="noopener noreferrer">
   <FaDribbbleSquare size={30} />
+</a>
+<a href="https://linkedin.com/in/ujiro_eruteya" target="_blank" rel="noopener noreferrer">
+  <FaLinkedin size={30} />
 </a>
 
       </div>        
